@@ -1,8 +1,3 @@
-"hello this wordlz"
+Work is now complete 
 
-2nd ammendment 
-
-preparing for stash
-
-
-Second BRANCH
+This is for stashing
